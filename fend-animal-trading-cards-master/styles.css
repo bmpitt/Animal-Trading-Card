@@ -1,0 +1,43 @@
+li {
+  font-style: italic;
+}
+h3{
+  text-transform: uppercase;
+  text-align: center;
+  border: inset;
+  background-color: grey;
+}
+body{
+  border-style: outset;
+  border-color: #cd6600;
+  box-sizing: content-box;
+  width: 300px;
+  color: white;
+  background-color: black;
+  padding: 1em;
+}
+.main{
+  background-image: url("jungle.jpg");
+  background-repeat:no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+ul{
+  list-style-type: none;
+}
+span{
+  font-weight: bold;
+}
+img{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  border: inset;
+}
+.information{
+  border: outset;
+  padding: 1em;
+  height: 300px;
+  width: 275px;
+}
